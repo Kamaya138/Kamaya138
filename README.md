@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Kamaya138/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kamaya138/Ticket-Lifecycle)
 - <b>VPN Configuration</b>
-  - [VPN Setup and Usage (Proton)](https://github.com/Kamaya138/configure-ad)
+  - [VPN Setup and Usage (Proton)](https://github.com/Kamaya138/VPN-Config/new/main?readme=1)
     
 
 <h2>Connect with me:</h2>
